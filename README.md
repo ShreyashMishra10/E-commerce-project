@@ -90,4 +90,4 @@ npm dev
 Shreyash Mishra
 
 **GitHub: @ShreyashMishra10**  
-**Role: Full-Stack Developer | Final Year CS Student**
+**Role: Full-Stack Developer | Third Year CS Student**
